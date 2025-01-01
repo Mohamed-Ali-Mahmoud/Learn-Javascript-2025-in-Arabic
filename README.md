@@ -1,4 +1,4 @@
-# Learn-Javascript-By-Osama-Elzer
+# Learn-Javascript-By-Osama-Elzero
 
 تعلم كل شئ عن الجافاسكريبت
 
