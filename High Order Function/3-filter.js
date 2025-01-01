@@ -9,7 +9,10 @@
   - Array => The Current Array
 */
 
-// Get Friends With Name Starts With A
+/*==========================================================================
+                  Get Friends With Name Starts With A
+============================================================================*/
+
 let friends = ["Ahmed", "Sameh", "Sayed", "Asmaa", "Amgad", "Israa"];
 
 let filterdFreinds = friends.filter((ele) => {
@@ -18,7 +21,10 @@ let filterdFreinds = friends.filter((ele) => {
 
 console.log(filterdFreinds);
 
-// Get Even Numbers Only
+/*==========================================================================
+                           Get Even Numbers Only
+============================================================================*/
+
 let numbers = [11, 20, 2, 5, 17, 10];
 
 let evenNumbers = numbers.filter((ele) => {

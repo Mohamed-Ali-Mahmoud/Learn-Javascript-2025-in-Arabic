@@ -6,7 +6,10 @@ let smallWords = sentence.split(" ").filter((ele) => {
 });
 console.log(smallWords);
 
-// Filter Strings + Multiply
+/*==========================================================================
+                           Filter Strings + Multiply
+============================================================================*/
+
 let mix = "A13BS2ZX";
 
 let num = mix
